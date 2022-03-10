@@ -60,6 +60,8 @@ dkms.conf
 *.iml
 out
 gen
+/.vscode/
+/.vscode/*
 /build/
 /build/*
 /cmake-build-debug/
